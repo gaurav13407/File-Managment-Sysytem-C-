@@ -1,0 +1,19 @@
+Error opening input directory for batch conversion.
+Error opening input directory for batch conversion.
+Error opening input directory for batch conversion.
+Error opening input directory for batch conversion.
+Error opening input directory for batch conversion.
+Error opening input directory for batch conversion.
+Error opening input directory for batch conversion.
+Starting batch conversion.
+Error: Cannot open output file in thread.
+Error: Cannot open output file in thread.
+Error: Cannot open output file in thread.
+Error: Cannot open output file in thread.
+Batch conversion completed.
+Starting batch conversion.
+Error: Cannot open output file in thread.
+Error: Cannot open output file in thread.
+Error: Cannot open output file in thread.
+Error: Cannot open output file in thread.
+Batch conversion completed.

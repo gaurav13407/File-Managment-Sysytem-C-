@@ -1,0 +1,12 @@
+# GTK 3 for GUI
+libgtk-3-dev
+
+# Multi-threading support (usually preinstalled)
+libpthread-stubs0-dev
+
+# Text to PDF support
+libhpdf-dev
+
+# Image conversion support
+libjpeg-dev
+libpng-dev
